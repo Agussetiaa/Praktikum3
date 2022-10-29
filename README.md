@@ -1,16 +1,18 @@
-# TUGAS Praktikum 3
+# TUGAS
+# Praktikum 3
 
-## Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
+- Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
 
-r = input ("masukan jari-jari lingkaran:")
-pi = 3.14
-l = pi * int(r) * int (r)
-k = 2 * pi * int(r)
-print("luas lingkaran:",l)
-print("keliling lingkarang:",k)
+~ r = input ("masukan jari-jari lingkaran:")
+~ pi = 3.14
+~ l = pi * int(r) * int (r)
+~ k = 2 * pi * int(r)
+~ print("luas lingkaran:",l)
+~ print("keliling lingkarang:",k)
+~ ![gambar](gambarss/)
+
+- algoritma flowchart menghitung luas dan keliling lingkaran 
 ![gambar](gambarss/)
-
-
 
 # Latihan 1
 
@@ -50,4 +52,11 @@ print("keliling lingkarang:",k)
 # Latihan 3
 ## Buatlah kode pemrograman menggunakan string format untuk menghasilkan output seperti gambar di bawah ini
 ![gambar](gambarss)
+
+
+## - Agar melihat hasil output yang sama dengan Latihan 3 yaitu dengan menjalankan hasil dari statement yang sudah dibuat dan setelah di running kita input angka 5
+![gambar](gambarss/)
+## - anda juga bisa bebas memasukan angka yang anda inginkan.
+## - contoh lain 
+![gambar](gambarss/)
 
