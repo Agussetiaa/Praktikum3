@@ -1,4 +1,17 @@
 # TUGAS Praktikum 3
+
+## Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
+
+r = input ("masukan jari-jari lingkaran:")
+pi = 3.14
+l = pi * int(r) * int (r)
+k = 2 * pi * int(r)
+print("luas lingkaran:",l)
+print("keliling lingkarang:",k)
+![gambar](gambarss/)
+
+
+
 # Latihan 1
 
 ## penggunaan End
@@ -17,9 +30,24 @@
 ![gambar](gambarss/)
 
 ## - ini adalah contoh string formatting
-## - ada 3 cara menggunakan string pemformatan string 
+## Ada 3 cara menggunakan string pemformatan string 
 ## 1. Mode lama menggunakan placeholder atau menggunakan karakter %'(modulo)'
 ## 2. teknik nya menggunakan metode string.format()
 ## 3. metode terbaru yaitu dengan python 3.6 menggunakan string literal yang di format disebut *f-string*
 
 # Latihan 2
+## Tentukan variabel terlebih dahulu, kemudian memakai dua variabel , yaitu a dan b
+## - input pada variabel
+## - Setelah di input, ekspresikan variabel yang telah di input
+## - Lalu gabungkan variabel a dan b dengan *format string* 
+![gambar](gambarss/)
+
+## Konversi nilai variabel
+## - Konversi nilai variabel yang masih berbentuk 'string' pada integer
+## - Setelah itu menjumlahkan dan membagi dengan mengepresikan dalam bentuk *formatting string*
+![gambar](gamabarss)
+
+# Latihan 3
+## Buatlah kode pemrograman menggunakan string format untuk menghasilkan output seperti gambar di bawah ini
+![gambar](gambarss)
+
