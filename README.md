@@ -1,5 +1,5 @@
 # TUGAS Praktikum 3
-## Latihan 1
+# Latihan 1
 
 ## penggunaan End
 ## - Penggunaan end di python fungsi nya untuk memberi pemisah atau parameter di antara quotes yang kita buat
@@ -18,8 +18,8 @@
 
 ## - ini adalah contoh string formatting
 ## - ada 3 cara menggunakan string pemformatan string 
-## - 1. Mode lama menggunakan placeholder atau menggunakan karakter %'(modulo)'
-## - 2. teknik nya menggunakan metode string.format()
-## - 3. metode terbaru yaitu dengan python 3.6 menggunakan string literal yang di format disebut *f-string*
+## 1. Mode lama menggunakan placeholder atau menggunakan karakter %'(modulo)'
+## 2. teknik nya menggunakan metode string.format()
+## 3. metode terbaru yaitu dengan python 3.6 menggunakan string literal yang di format disebut *f-string*
 
 # Latihan 2
