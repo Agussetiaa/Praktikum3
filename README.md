@@ -44,12 +44,9 @@
 
 # Latihan 3
 ## Buatlah kode pemrograman menggunakan string format untuk menghasilkan output seperti gambar di bawah ini
-![gambar](gambarss)
+![gambar](gambarss/8s.png)
 
 
-## - Agar melihat hasil output yang sama dengan Latihan 3 yaitu dengan menjalankan hasil dari statement yang sudah dibuat dan setelah di running kita input angka 5
-![gambar](gambarss/)
-## - anda juga bisa bebas memasukan angka yang anda inginkan.
-## - contoh lain 
-![gambar](gambarss/)
+## - Agar melihat hasil output yang sama dengan Latihan 3 yaitu dengan menjalankan hasil dari statement yang sudah dibuat dan setelah itu di running
+![gambar](gambarss/9s.png)
 
