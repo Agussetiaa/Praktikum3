@@ -9,7 +9,7 @@
 
 # Latihan 1
 
-## penggunaan End
+## Penggunaan End
 ## - Penggunaan end di python fungsi nya untuk memberi pemisah atau parameter di antara quotes yang kita buat
 ![gambar](gambarss/2s.png)
 
