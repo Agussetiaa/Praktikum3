@@ -2,34 +2,27 @@
 # Praktikum 3
 
 - Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
-
-~ r = input ("masukan jari-jari lingkaran:")
-~ pi = 3.14
-~ l = pi * int(r) * int (r)
-~ k = 2 * pi * int(r)
-~ print("luas lingkaran:",l)
-~ print("keliling lingkarang:",k)
-~ ![gambar](gambarss/)
+![gambar(gambarss/1s.png)
 
 - algoritma flowchart menghitung luas dan keliling lingkaran 
-![gambar](gambarss/)
+![gambar](gambarss/2s.png)
 
 # Latihan 1
 
 ## penggunaan End
 ## - Penggunaan end di python fungsi nya untuk memberi pemisah atau parameter di antara quotes yang kita buat
-![gambar](gambarss/1s.png)
+![gambar](gambarss/3s.png)
 
 ## pengunaan separator
 ## - Pengunaan separotor di python sebagai pemisah di stiap variabel yang sudah diberi nilai
-![gambar](gambarss/)
+![gambar](gambarss/4s.png)
 
 ## String format
 ## - String format atau pemformatan string memungkinkan kita memasukan item ke dalam string atau bisa juga bisa menggabungkan string yang menggunakan koma atau string concatenation.
-![gambar](gambarss/)
+![gambar](gambarss/5s.png)
 
 ## Dan ini contohnya string concatenation
-![gambar](gambarss/)
+![gambar](gambarss/6s.png)
 
 ## - ini adalah contoh string formatting
 ## Ada 3 cara menggunakan string pemformatan string 
@@ -42,7 +35,7 @@
 ## - input pada variabel
 ## - Setelah di input, ekspresikan variabel yang telah di input
 ## - Lalu gabungkan variabel a dan b dengan *format string* 
-![gambar](gambarss/)
+![gambar](gambarss/7s.png)
 
 ## Konversi nilai variabel
 ## - Konversi nilai variabel yang masih berbentuk 'string' pada integer
