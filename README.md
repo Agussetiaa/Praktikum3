@@ -4,7 +4,7 @@
 ## - Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
 ![gambar](gambarss/1s.png)
 
-## - flowchart menghitung luas dan keliling lingkaran 
+## - Flowchart menghitung luas dan keliling lingkaran 
 ![gambar](gambarss/1,2s.png)
 
 # Latihan 1
