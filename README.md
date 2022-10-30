@@ -5,24 +5,24 @@
 ![gambar](gambarss/1s.png)
 
 - algoritma flowchart menghitung luas dan keliling lingkaran 
-![gambar](gambarss/2s.png)
+![gambar](gambarss/s.png)
 
 # Latihan 1
 
 ## penggunaan End
 ## - Penggunaan end di python fungsi nya untuk memberi pemisah atau parameter di antara quotes yang kita buat
-![gambar](gambarss/3s.png)
+![gambar](gambarss/2s.png)
 
 ## pengunaan separator
 ## - Pengunaan separotor di python sebagai pemisah di stiap variabel yang sudah diberi nilai
-![gambar](gambarss/4s.png)
+![gambar](gambarss/3s.png)
 
 ## String format
 ## - String format atau pemformatan string memungkinkan kita memasukan item ke dalam string atau bisa juga bisa menggabungkan string yang menggunakan koma atau string concatenation.
-![gambar](gambarss/5s.png)
+![gambar](gambarss/4s.png)
 
 ## Dan ini contohnya string concatenation
-![gambar](gambarss/6s.png)
+![gambar](gambarss/5s.png)
 
 ## - ini adalah contoh string formatting
 ## Ada 3 cara menggunakan string pemformatan string 
@@ -35,12 +35,12 @@
 ## - input pada variabel
 ## - Setelah di input, ekspresikan variabel yang telah di input
 ## - Lalu gabungkan variabel a dan b dengan *format string* 
-![gambar](gambarss/7s.png)
+![gambar](gambarss/6s.png)
 
 ## Konversi nilai variabel
 ## - Konversi nilai variabel yang masih berbentuk 'string' pada integer
 ## - Setelah itu menjumlahkan dan membagi dengan mengepresikan dalam bentuk *formatting string*
-![gambar](gamabarss)
+![gambar](gamabarss/7s.png)
 
 # Latihan 3
 ## Buatlah kode pemrograman menggunakan string format untuk menghasilkan output seperti gambar di bawah ini
