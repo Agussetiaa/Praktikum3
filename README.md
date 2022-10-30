@@ -5,7 +5,7 @@
 ![gambar](gambarss/1s.png)
 
 - algoritma flowchart menghitung luas dan keliling lingkaran 
-![gambar](gambarss/s.png)
+![gambar](gambarss/1,2s.png)
 
 # Latihan 1
 
