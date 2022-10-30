@@ -2,7 +2,7 @@
 # Praktikum 3
 
 - Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python 
-![gambar(gambarss/1s.png)
+![gambar](gambarss/1s.png)
 
 - algoritma flowchart menghitung luas dan keliling lingkaran 
 ![gambar](gambarss/2s.png)
