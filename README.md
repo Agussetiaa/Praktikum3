@@ -40,7 +40,7 @@
 ## Konversi nilai variabel
 ## - Konversi nilai variabel yang masih berbentuk 'string' pada integer
 ## - Setelah itu menjumlahkan dan membagi dengan mengepresikan dalam bentuk *formatting string*
-![gambar](gamabarss/7s.png)
+![gambar](gambarss/7s.png)
 
 # Latihan 3
 ## Buatlah kode pemrograman menggunakan string format untuk menghasilkan output seperti gambar di bawah ini
@@ -49,4 +49,3 @@
 
 ## - Agar melihat hasil output yang sama dengan Latihan 3 yaitu dengan menjalankan hasil dari statement yang sudah dibuat dan setelah itu di running
 ![gambar](gambarss/9s.png)
-
