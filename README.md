@@ -2,14 +2,14 @@
 # Praktikum 3
 
 - Buatlah kode pemrograman untuk menghitung luas dan keliling lingkaran menggunakan python
--  Masukan kode :
-## r = input ("masukan jari-jari lingkaran:")
-## pi = 3.14
-## l = pi * int(r) * int(r)
-## k = 2 * pi * int(r)
-## print("luas lingkaran:", l)
-## print("keliling lingkaran:", k)
-- Setelah selesai masukan kode kemudian di running, akan diminta untuk **masukan angka** dan hasilnya akan ada seperti contoh gambar dibawah ini.
+## - Masukan kode :
+##### r = input ("masukan jari-jari lingkaran:")
+##### pi = 3.14
+##### l = pi * int(r) * int(r)
+##### k = 2 * pi * int(r)
+##### print("luas lingkaran:", l)
+##### print("keliling lingkaran:", k)
+## - Setelah selesai masukan kode kemudian di running, akan diminta untuk **masukan angka** dan hasilnya akan ada seperti contoh gambar dibawah ini.
 ![gambar](gambarss/1s.png)
 
 - Flowchart menghitung luas dan keliling lingkaran 
@@ -22,7 +22,7 @@
 ![gambar](gambarss/2s.png)
 
 ## pengunaan separator
-- Pengunaan separotor di python sebagai pemisah di stiap variabel yang sudah diberi nilai
+- Pengunaan separator di python sebagai pemisah di stiap variabel yang sudah diberi nilai
 ![gambar](gambarss/3s.png)
 
 ## String format
