@@ -9,7 +9,7 @@
 ###### k = 2 * pi * int(r)
 ###### print("luas lingkaran:", l)
 ###### print("keliling lingkaran:", k)
-##### - Setelah selesai masukan kode kemudian di running, akan diminta untuk ~masukan angka~ dan hasilnya akan ada seperti contoh gambar dibawah ini.
+##### - Setelah selesai masukan kode kemudian di running, akan diminta untuk *masukan angka* dan hasilnya akan ada seperti contoh gambar dibawah ini.
 ![gambar](gambarss/1s.png)
 
 - Flowchart menghitung luas dan keliling lingkaran 
