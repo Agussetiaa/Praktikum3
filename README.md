@@ -35,7 +35,7 @@
 #### - ini adalah contoh string formatting
 
 # Latihan 2
- - Tentukan variabel terlebih dahulu, kemudian memakai dua variabel , yaitu a dan b
+- Tentukan variabel terlebih dahulu, kemudian memakai dua variabel , yaitu a dan b
 #### - Input pada variabel
 #### - Setelah di input, ekspresikan variabel yang telah di input
 #### - Lalu gabungkan variabel a dan b dengan *format string* 
